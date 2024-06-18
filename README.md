@@ -10,6 +10,7 @@ This repository contains a collection of simple Python applications to demonstra
 4. **Guessing Numbers Game**
 5. **Text Editor**
 6. **Currency Converter**
+7. **Weather Forecast**
 
 ## Installation
 
@@ -89,9 +90,18 @@ A command-line application that converts amounts between different currencies us
 
 **How to run:**
 
-```bash
+````bash
 python currency_converter.py
-```
+
+### 6. Weather Forecast
+
+A GUI application that shows the weather results from an API.
+
+**How to run:**
+
+```bash
+python weather_forecast.py
+````
 
 ## Contributing
 
